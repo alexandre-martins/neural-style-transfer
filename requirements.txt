@@ -1,0 +1,6 @@
+Flask
+Werkzeug
+numpy
+tensorflow
+PIL
+scipy
